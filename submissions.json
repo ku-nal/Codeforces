@@ -3737,6 +3737,23 @@
     ],
     "timestamp": "Apr/27/2021 11:45"
   },
+  "CF99857820": {
+    "contest_id": 1457,
+    "language": "Python 3",
+    "path": "codeforces\\1457\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prison Break",
+    "problem_url": "https://codeforces.com/contest/1457/problem/A",
+    "submission_id": "CF99857820",
+    "submission_url": "https://codeforces.com/contest/1457/submission/99857820",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/29/2020 13:08"
+  },
   "CF99862314": {
     "contest_id": 1457,
     "language": "Python 3",
