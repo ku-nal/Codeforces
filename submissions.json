@@ -3737,6 +3737,23 @@
     ],
     "timestamp": "Apr/27/2021 11:45"
   },
+  "CF99922528": {
+    "contest_id": 1457,
+    "language": "Python 3",
+    "path": "codeforces\\1457\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bouncing Ball",
+    "problem_url": "https://codeforces.com/contest/1457/problem/C",
+    "submission_id": "CF99922528",
+    "submission_url": "https://codeforces.com/contest/1457/submission/99922528",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/29/2020 21:14"
+  },
   "CF99931596": {
     "contest_id": 814,
     "language": "Python 3",
