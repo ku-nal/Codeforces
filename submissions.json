@@ -1,4 +1,20 @@
 {
+  "CF100303559": {
+    "contest_id": 466,
+    "language": "Python 3",
+    "path": "codeforces\\466\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cheap Travel",
+    "problem_url": "https://codeforces.com/contest/466/problem/A",
+    "submission_id": "CF100303559",
+    "submission_url": "https://codeforces.com/contest/466/submission/100303559",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Dec/04/2020 01:31"
+  },
   "CF100358129": {
     "contest_id": 1453,
     "language": "Python 3",
