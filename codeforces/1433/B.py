@@ -1,4 +1,3 @@
-
 tc=int(input())
 while tc:
     n=int(input())
@@ -19,5 +18,21 @@ while tc:
             if k<len(li):
                 ans+=k-j
         i=k
-    print(ans)
+    o=len(li)-1
+    ans1=0
+    while o>=0:
+        if li[o]==0:
+            o-=1
+            continue
+        j=o-1
+        while j>=0 and li[j]==1:
+            j-=1
+        k=j-1
+        if k>=0:
+            while k>=0 and li[k]==0:
+                k-=1
+            if k>=0:
+                ans1+=j-k
+        o=k
+    print(min(ans,ans1))
     tc-=1
