@@ -1,4 +1,21 @@
 {
+  "CF100248312": {
+    "contest_id": 118,
+    "language": "Python 3",
+    "path": "codeforces\\118\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Task",
+    "problem_url": "https://codeforces.com/contest/118/problem/A",
+    "submission_id": "CF100248312",
+    "submission_url": "https://codeforces.com/contest/118/submission/100248312",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Dec/03/2020 13:11"
+  },
   "CF100254039": {
     "contest_id": 118,
     "language": "Python 3",
