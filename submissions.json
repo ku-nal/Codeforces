@@ -1,4 +1,20 @@
 {
+  "CF100478072": {
+    "contest_id": 1095,
+    "language": "Python 3",
+    "path": "codeforces\\1095\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array Stabilization",
+    "problem_url": "https://codeforces.com/contest/1095/problem/B",
+    "submission_id": "CF100478072",
+    "submission_url": "https://codeforces.com/contest/1095/submission/100478072",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Dec/06/2020 01:25"
+  },
   "CF100480481": {
     "contest_id": 1095,
     "language": "Python 3",
