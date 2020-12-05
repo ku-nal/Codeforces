@@ -1,4 +1,21 @@
 {
+  "CF100480481": {
+    "contest_id": 1095,
+    "language": "Python 3",
+    "path": "codeforces\\1095\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Powers Of Two",
+    "problem_url": "https://codeforces.com/contest/1095/problem/C",
+    "submission_id": "CF100480481",
+    "submission_url": "https://codeforces.com/contest/1095/submission/100480481",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Dec/06/2020 02:52"
+  },
   "CF100962901": {
     "contest_id": 1461,
     "language": "Python 3",
