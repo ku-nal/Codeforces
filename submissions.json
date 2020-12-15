@@ -1,4 +1,22 @@
 {
+  "CF101217475": {
+    "contest_id": 1461,
+    "language": "Python 3",
+    "path": "codeforces\\1461\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Find the Spruce",
+    "problem_url": "https://codeforces.com/contest/1461/problem/B",
+    "submission_id": "CF101217475",
+    "submission_url": "https://codeforces.com/contest/1461/submission/101217475",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Dec/15/2020 10:58"
+  },
   "CF101422301": {
     "contest_id": 1462,
     "language": "Python 3",
