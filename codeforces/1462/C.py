@@ -1,3 +1,4 @@
+
 t=int(input())
 while t:
     x=int(input())
@@ -34,4 +35,5 @@ while t:
         else:
             print(x)
     t-=1
+    
     
