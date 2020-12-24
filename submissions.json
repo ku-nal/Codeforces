@@ -1,4 +1,21 @@
 {
+  "CF102252661": {
+    "contest_id": 69,
+    "language": "Python 3",
+    "path": "codeforces\\69\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Young Physicist",
+    "problem_url": "https://codeforces.com/contest/69/problem/A",
+    "submission_id": "CF102252661",
+    "submission_url": "https://codeforces.com/contest/69/submission/102252661",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/24/2020 22:28"
+  },
   "CF102253200": {
     "contest_id": 266,
     "language": "Python 3",
