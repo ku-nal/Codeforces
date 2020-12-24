@@ -1,4 +1,21 @@
 {
+  "CF102255431": {
+    "contest_id": 272,
+    "language": "Python 3",
+    "path": "codeforces\\272\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dima and Friends",
+    "problem_url": "https://codeforces.com/contest/272/problem/A",
+    "submission_id": "CF102255431",
+    "submission_url": "https://codeforces.com/contest/272/submission/102255431",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Dec/24/2020 23:09"
+  },
   "CF102257217": {
     "contest_id": 450,
     "language": "Python 3",
