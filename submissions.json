@@ -1,4 +1,20 @@
 {
+  "CF102254480": {
+    "contest_id": 227,
+    "language": "Python 3",
+    "path": "codeforces\\227\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Effective Approach",
+    "problem_url": "https://codeforces.com/contest/227/problem/B",
+    "submission_id": "CF102254480",
+    "submission_url": "https://codeforces.com/contest/227/submission/102254480",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Dec/24/2020 22:54"
+  },
   "CF102255431": {
     "contest_id": 272,
     "language": "Python 3",
