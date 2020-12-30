@@ -1,4 +1,22 @@
 {
+  "CF102849281": {
+    "contest_id": 1466,
+    "language": "Python 3",
+    "path": "codeforces\\1466\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Canine poetry",
+    "problem_url": "https://codeforces.com/contest/1466/problem/C",
+    "submission_id": "CF102849281",
+    "submission_url": "https://codeforces.com/contest/1466/submission/102849281",
+    "tags": [
+      "dp",
+      "greedy",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Dec/30/2020 22:32"
+  },
   "CF103123968": {
     "contest_id": 535,
     "language": "Python 3",
