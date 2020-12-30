@@ -1,4 +1,21 @@
 {
+  "CF102801389": {
+    "contest_id": 1466,
+    "language": "Python 3",
+    "path": "codeforces\\1466\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Last minute enhancements",
+    "problem_url": "https://codeforces.com/contest/1466/problem/B",
+    "submission_id": "CF102801389",
+    "submission_url": "https://codeforces.com/contest/1466/submission/102801389",
+    "tags": [
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Dec/30/2020 20:37"
+  },
   "CF102829499": {
     "contest_id": 1466,
     "language": "Python 3",
