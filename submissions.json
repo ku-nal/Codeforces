@@ -1,4 +1,22 @@
 {
+  "CF103320915": {
+    "contest_id": 1472,
+    "language": "Python 3",
+    "path": "codeforces\\1472\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fair Division",
+    "problem_url": "https://codeforces.com/contest/1472/problem/B",
+    "submission_id": "CF103320915",
+    "submission_url": "https://codeforces.com/contest/1472/submission/103320915",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/05/2021 00:46"
+  },
   "CF103397097": {
     "contest_id": 1471,
     "language": "Python 3",
