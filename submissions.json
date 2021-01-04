@@ -1,4 +1,21 @@
 {
+  "CF103246631": {
+    "contest_id": 1472,
+    "language": "Python 3",
+    "path": "codeforces\\1472\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Long Jumps",
+    "problem_url": "https://codeforces.com/contest/1472/problem/C",
+    "submission_id": "CF103246631",
+    "submission_url": "https://codeforces.com/contest/1472/submission/103246631",
+    "tags": [
+      "dp",
+      "graphs",
+      "*1100"
+    ],
+    "timestamp": "Jan/04/2021 20:52"
+  },
   "CF103320915": {
     "contest_id": 1472,
     "language": "Python 3",
