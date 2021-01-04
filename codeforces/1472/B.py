@@ -1,19 +1,21 @@
 
-test = int(input())
-while(test):
-    n=int(input())
-    li=list(map(int,input().split()))
-    o=li.count(1)
-    t=li.count(2)
-    
-    if o%2==0 and t%2==0:
-        print("YES")
-    elif t%2==1:
-        o-=2
-        if o>=0 and o%2==0:
-            print("YES")
-        else:
-            print("NO")
-    else:
+t = int(input())
+while(t):
+    n= int(input())
+    li = list(map(int,input().split()))
+    c2 = li.count(2)
+    c1 = li.count(1)
+    a=0
+    for i in range(2):
+        a+=1
+    #print(a)
+    if(c1%2==1):
         print("NO")
-    test-=1
+    elif(c2%2==0 and c1%2==0):
+        print("YES")
+    elif(c2%2==1 and (c1%2==0 and c1-2>=0)):
+        print("YES")
+    elif(c2%2==1 and (c1%2==1 or c1-2<0)):
+        print("NO")
+    
+    t -= 1
