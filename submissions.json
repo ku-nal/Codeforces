@@ -1,4 +1,23 @@
 {
+  "CF103576406": {
+    "contest_id": 1471,
+    "language": "PyPy 3",
+    "path": "codeforces\\1471\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Strange List",
+    "problem_url": "https://codeforces.com/contest/1471/problem/B",
+    "submission_id": "CF103576406",
+    "submission_url": "https://codeforces.com/contest/1471/submission/103576406",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/07/2021 00:04"
+  },
   "CF103576557": {
     "contest_id": 1471,
     "language": "PyPy 3",
