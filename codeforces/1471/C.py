@@ -1,4 +1,4 @@
- 
+
 test = int(input())
 while(test):
     n,o=map(int,input().split())
