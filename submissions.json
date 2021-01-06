@@ -1,4 +1,22 @@
 {
+  "CF103576557": {
+    "contest_id": 1471,
+    "language": "PyPy 3",
+    "path": "codeforces\\1471\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Strange Birthday Party",
+    "problem_url": "https://codeforces.com/contest/1471/problem/C",
+    "submission_id": "CF103576557",
+    "submission_url": "https://codeforces.com/contest/1471/submission/103576557",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jan/07/2021 00:05"
+  },
   "CF103768311": {
     "contest_id": 1467,
     "language": "Python 3",
