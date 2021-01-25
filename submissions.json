@@ -1,4 +1,21 @@
 {
+  "CF105311178": {
+    "contest_id": 1475,
+    "language": "Python 3",
+    "path": "codeforces\\1475\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd Divisor",
+    "problem_url": "https://codeforces.com/contest/1475/problem/A",
+    "submission_id": "CF105311178",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105311178",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Jan/25/2021 20:33"
+  },
   "CF105364587": {
     "contest_id": 1475,
     "language": "Python 3",
