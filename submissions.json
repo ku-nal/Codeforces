@@ -1,4 +1,21 @@
 {
+  "CF106344929": {
+    "contest_id": 66,
+    "language": "PyPy 3",
+    "path": "codeforces\\66\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Petya and Countryside",
+    "problem_url": "https://codeforces.com/contest/66/problem/B",
+    "submission_id": "CF106344929",
+    "submission_url": "https://codeforces.com/contest/66/submission/106344929",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Feb/03/2021 13:03"
+  },
   "CF106354717": {
     "contest_id": 680,
     "language": "PyPy 3",
