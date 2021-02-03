@@ -1,4 +1,20 @@
 {
+  "CF106371721": {
+    "contest_id": 144,
+    "language": "PyPy 3",
+    "path": "codeforces\\144\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arrival of the General",
+    "problem_url": "https://codeforces.com/contest/144/problem/A",
+    "submission_id": "CF106371721",
+    "submission_url": "https://codeforces.com/contest/144/submission/106371721",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/03/2021 18:45"
+  },
   "CF106374726": {
     "contest_id": 352,
     "language": "PyPy 3",
