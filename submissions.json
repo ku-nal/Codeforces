@@ -1,4 +1,22 @@
 {
+  "CF106616901": {
+    "contest_id": 1481,
+    "language": "Python 3",
+    "path": "codeforces\\1481\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Colony",
+    "problem_url": "https://codeforces.com/contest/1481/problem/B",
+    "submission_id": "CF106616901",
+    "submission_url": "https://codeforces.com/contest/1481/submission/106616901",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Feb/05/2021 23:40"
+  },
   "CF106675168": {
     "contest_id": 1481,
     "language": "Python 3",
