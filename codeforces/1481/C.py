@@ -1,8 +1,7 @@
 from collections import Counter
-import sys 
+# import sys 
 # sys.stdin = open('input.txt', 'r')   
 # sys.stdout = open('output.txt', 'w')
-def input(): return sys.stdin.readline().rstrip("\r\n")
 test=int(input())
 while test:
     n,m=map(int,input().split())
@@ -29,6 +28,7 @@ while test:
             posb[b[i]].append(i)
         else:
             posb[b[i]]=[i]
+    #print(omap)
     
     for k,v in omap.items():
         if k in omap3:
