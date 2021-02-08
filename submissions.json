@@ -1,4 +1,21 @@
 {
+  "CF106937586": {
+    "contest_id": 272,
+    "language": "PyPy 3",
+    "path": "codeforces\\272\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dima and Staircase",
+    "problem_url": "https://codeforces.com/contest/272/problem/C",
+    "submission_id": "CF106937586",
+    "submission_url": "https://codeforces.com/contest/272/submission/106937586",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Feb/09/2021 01:43"
+  },
   "CF106990302": {
     "contest_id": 1463,
     "language": "Python 3",
