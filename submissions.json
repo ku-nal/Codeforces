@@ -1,4 +1,20 @@
 {
+  "CF106935192": {
+    "contest_id": 81,
+    "language": "PyPy 3",
+    "path": "codeforces\\81\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Plug-in",
+    "problem_url": "https://codeforces.com/contest/81/problem/A",
+    "submission_id": "CF106935192",
+    "submission_url": "https://codeforces.com/contest/81/submission/106935192",
+    "tags": [
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Feb/09/2021 00:44"
+  },
   "CF106937586": {
     "contest_id": 272,
     "language": "PyPy 3",
