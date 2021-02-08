@@ -1,4 +1,22 @@
 {
+  "CF106873408": {
+    "contest_id": 1480,
+    "language": "PyPy 3",
+    "path": "codeforces\\1480\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Great Hero",
+    "problem_url": "https://codeforces.com/contest/1480/problem/B",
+    "submission_id": "CF106873408",
+    "submission_url": "https://codeforces.com/contest/1480/submission/106873408",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Feb/08/2021 10:17"
+  },
   "CF106935192": {
     "contest_id": 81,
     "language": "PyPy 3",
