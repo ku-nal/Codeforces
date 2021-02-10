@@ -1,4 +1,22 @@
 {
+  "CF107060729": {
+    "contest_id": 1443,
+    "language": "PyPy 3",
+    "path": "codeforces\\1443\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Delivery Dilemma",
+    "problem_url": "https://codeforces.com/contest/1443/problem/C",
+    "submission_id": "CF107060729",
+    "submission_url": "https://codeforces.com/contest/1443/submission/107060729",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Feb/10/2021 18:27"
+  },
   "CF107065470": {
     "contest_id": 1453,
     "language": "PyPy 3",
