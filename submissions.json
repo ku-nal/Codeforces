@@ -1,4 +1,23 @@
 {
+  "CF107088912": {
+    "contest_id": 1443,
+    "language": "PyPy 3",
+    "path": "codeforces\\1443\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Saving the City",
+    "problem_url": "https://codeforces.com/contest/1443/problem/B",
+    "submission_id": "CF107088912",
+    "submission_url": "https://codeforces.com/contest/1443/submission/107088912",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Feb/11/2021 02:19"
+  },
   "CF107123897": {
     "contest_id": 1433,
     "language": "PyPy 3",
