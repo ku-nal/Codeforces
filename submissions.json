@@ -1,4 +1,22 @@
 {
+  "CF107127221": {
+    "contest_id": 1431,
+    "language": "Kotlin",
+    "path": "codeforces\\1431\\B.kt",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Polycarp and the Language of Gods",
+    "problem_url": "https://codeforces.com/contest/1431/problem/B",
+    "submission_id": "CF107127221",
+    "submission_url": "https://codeforces.com/contest/1431/submission/107127221",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Feb/11/2021 19:02"
+  },
   "CF107127433": {
     "contest_id": 1431,
     "language": "Kotlin",
