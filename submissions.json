@@ -1,4 +1,22 @@
 {
+  "CF107186314": {
+    "contest_id": 1422,
+    "language": "Python 3",
+    "path": "codeforces\\1422\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Nice Matrix",
+    "problem_url": "https://codeforces.com/contest/1422/problem/B",
+    "submission_id": "CF107186314",
+    "submission_url": "https://codeforces.com/contest/1422/submission/107186314",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Feb/12/2021 18:41"
+  },
   "CF107190479": {
     "contest_id": 1421,
     "language": "Python 3",
