@@ -1,4 +1,21 @@
 {
+  "CF107182017": {
+    "contest_id": 1424,
+    "language": "Python 3",
+    "path": "codeforces\\1424\\G.py",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Years",
+    "problem_url": "https://codeforces.com/contest/1424/problem/G",
+    "submission_id": "CF107182017",
+    "submission_url": "https://codeforces.com/contest/1424/submission/107182017",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Feb/12/2021 17:25"
+  },
   "CF107186314": {
     "contest_id": 1422,
     "language": "Python 3",
