@@ -1,4 +1,23 @@
 {
+  "CF107300402": {
+    "contest_id": 1407,
+    "language": "PyPy 3",
+    "path": "codeforces\\1407\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Big Vova",
+    "problem_url": "https://codeforces.com/contest/1407/problem/B",
+    "submission_id": "CF107300402",
+    "submission_url": "https://codeforces.com/contest/1407/submission/107300402",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Feb/14/2021 00:20"
+  },
   "CF107304421": {
     "contest_id": 1401,
     "language": "PyPy 3",
