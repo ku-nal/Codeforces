@@ -1,4 +1,22 @@
 {
+  "CF107267632": {
+    "contest_id": 1485,
+    "language": "PyPy 3",
+    "path": "codeforces\\1485\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Replace and Keep Sorted",
+    "problem_url": "https://codeforces.com/contest/1485/problem/B",
+    "submission_id": "CF107267632",
+    "submission_url": "https://codeforces.com/contest/1485/submission/107267632",
+    "tags": [
+      "dp",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Feb/13/2021 14:34"
+  },
   "CF107269337": {
     "contest_id": 1425,
     "language": "PyPy 3",
