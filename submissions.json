@@ -1,4 +1,20 @@
 {
+  "CF107357582": {
+    "contest_id": 1380,
+    "language": "Python 3",
+    "path": "codeforces\\1380\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Universal Solution",
+    "problem_url": "https://codeforces.com/contest/1380/problem/B",
+    "submission_id": "CF107357582",
+    "submission_url": "https://codeforces.com/contest/1380/submission/107357582",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Feb/14/2021 22:34"
+  },
   "CF107369211": {
     "contest_id": 1375,
     "language": "Python 3",
