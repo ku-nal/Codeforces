@@ -1,4 +1,22 @@
 {
+  "CF107369211": {
+    "contest_id": 1375,
+    "language": "Python 3",
+    "path": "codeforces\\1375\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Element Extermination",
+    "problem_url": "https://codeforces.com/contest/1375/problem/C",
+    "submission_id": "CF107369211",
+    "submission_url": "https://codeforces.com/contest/1375/submission/107369211",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Feb/15/2021 02:32"
+  },
   "CF107403810": {
     "contest_id": 1373,
     "language": "Python 3",
