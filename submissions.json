@@ -1,4 +1,22 @@
 {
+  "CF107334891": {
+    "contest_id": 1381,
+    "language": "Python 3",
+    "path": "codeforces\\1381\\A1.py",
+    "platform": "Codeforces",
+    "problem_index": "A1",
+    "problem_name": "Prefix Flip (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1381/problem/A1",
+    "submission_id": "CF107334891",
+    "submission_url": "https://codeforces.com/contest/1381/submission/107334891",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Feb/14/2021 17:00"
+  },
   "CF107336578": {
     "contest_id": 1380,
     "language": "Python 3",
