@@ -1,4 +1,23 @@
 {
+  "CF107329830": {
+    "contest_id": 1393,
+    "language": "Python 3",
+    "path": "codeforces\\1393\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Applejack and Storages",
+    "problem_url": "https://codeforces.com/contest/1393/problem/B",
+    "submission_id": "CF107329830",
+    "submission_url": "https://codeforces.com/contest/1393/submission/107329830",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Feb/14/2021 15:27"
+  },
   "CF107334891": {
     "contest_id": 1381,
     "language": "Python 3",
