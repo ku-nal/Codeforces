@@ -1,4 +1,20 @@
 {
+  "CF107403810": {
+    "contest_id": 1373,
+    "language": "Python 3",
+    "path": "codeforces\\1373\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pluses and Minuses",
+    "problem_url": "https://codeforces.com/contest/1373/problem/C",
+    "submission_id": "CF107403810",
+    "submission_url": "https://codeforces.com/contest/1373/submission/107403810",
+    "tags": [
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Feb/15/2021 18:38"
+  },
   "CF107543531": {
     "contest_id": 1490,
     "language": "PyPy 3",
