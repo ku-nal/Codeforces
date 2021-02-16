@@ -1,4 +1,23 @@
 {
+  "CF107637239": {
+    "contest_id": 1490,
+    "language": "PyPy 3",
+    "path": "codeforces\\1490\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sum of Cubes",
+    "problem_url": "https://codeforces.com/contest/1490/problem/C",
+    "submission_id": "CF107637239",
+    "submission_url": "https://codeforces.com/contest/1490/submission/107637239",
+    "tags": [
+      "binary search",
+      "brute force",
+      "brute force",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Feb/17/2021 01:23"
+  },
   "CF107642792": {
     "contest_id": 1490,
     "language": "PyPy 3",
