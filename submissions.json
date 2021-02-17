@@ -1,4 +1,22 @@
 {
+  "CF107665729": {
+    "contest_id": 1490,
+    "language": "PyPy 3",
+    "path": "codeforces\\1490\\E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Accidental Victory",
+    "problem_url": "https://codeforces.com/contest/1490/problem/E",
+    "submission_id": "CF107665729",
+    "submission_url": "https://codeforces.com/contest/1490/submission/107665729",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Feb/17/2021 12:50"
+  },
   "CF107747580": {
     "contest_id": 1473,
     "language": "PyPy 3",
