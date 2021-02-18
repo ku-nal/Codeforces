@@ -1,4 +1,21 @@
 {
+  "CF107884351": {
+    "contest_id": 1469,
+    "language": "PyPy 3",
+    "path": "codeforces\\1469\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Red and Blue",
+    "problem_url": "https://codeforces.com/contest/1469/problem/B",
+    "submission_id": "CF107884351",
+    "submission_url": "https://codeforces.com/contest/1469/submission/107884351",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Feb/19/2021 01:49"
+  },
   "CF107886857": {
     "contest_id": 1469,
     "language": "PyPy 3",
