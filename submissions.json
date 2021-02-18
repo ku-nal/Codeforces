@@ -1,4 +1,22 @@
 {
+  "CF107762602": {
+    "contest_id": 1409,
+    "language": "PyPy 3",
+    "path": "codeforces\\1409\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Array Restoration",
+    "problem_url": "https://codeforces.com/contest/1409/problem/C",
+    "submission_id": "CF107762602",
+    "submission_url": "https://codeforces.com/contest/1409/submission/107762602",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Feb/18/2021 15:30"
+  },
   "CF107805947": {
     "contest_id": 1486,
     "language": "PyPy 3",
