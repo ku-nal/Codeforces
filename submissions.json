@@ -1,4 +1,20 @@
 {
+  "CF107918097": {
+    "contest_id": 275,
+    "language": "PyPy 3",
+    "path": "codeforces\\275\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lights Out",
+    "problem_url": "https://codeforces.com/contest/275/problem/A",
+    "submission_id": "CF107918097",
+    "submission_url": "https://codeforces.com/contest/275/submission/107918097",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Feb/19/2021 13:02"
+  },
   "CF107947517": {
     "contest_id": 1447,
     "language": "PyPy 3",
