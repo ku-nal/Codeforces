@@ -1,4 +1,24 @@
 {
+  "CF108121002": {
+    "contest_id": 1430,
+    "language": "Python 3",
+    "path": "codeforces\\1430\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Numbers on Whiteboard",
+    "problem_url": "https://codeforces.com/contest/1430/problem/C",
+    "submission_id": "CF108121002",
+    "submission_url": "https://codeforces.com/contest/1430/submission/108121002",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Feb/21/2021 22:40"
+  },
   "CF108129810": {
     "contest_id": 1428,
     "language": "Python 3",
