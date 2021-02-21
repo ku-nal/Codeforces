@@ -1,4 +1,23 @@
 {
+  "CF108118810": {
+    "contest_id": 1312,
+    "language": "Python 3",
+    "path": "codeforces\\1312\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Regular Polygons",
+    "problem_url": "https://codeforces.com/contest/1312/problem/A",
+    "submission_id": "CF108118810",
+    "submission_url": "https://codeforces.com/contest/1312/submission/108118810",
+    "tags": [
+      "geometry",
+      "greedy",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Feb/21/2021 22:01"
+  },
   "CF108119020": {
     "contest_id": 1463,
     "language": "Python 3",
