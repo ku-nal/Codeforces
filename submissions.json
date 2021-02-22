@@ -1,4 +1,21 @@
 {
+  "CF108201119": {
+    "contest_id": 1420,
+    "language": "PyPy 3",
+    "path": "codeforces\\1420\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rock and Lever",
+    "problem_url": "https://codeforces.com/contest/1420/problem/B",
+    "submission_id": "CF108201119",
+    "submission_url": "https://codeforces.com/contest/1420/submission/108201119",
+    "tags": [
+      "bitmasks",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Feb/22/2021 23:17"
+  },
   "CF108210418": {
     "contest_id": 1419,
     "language": "PyPy 3",
