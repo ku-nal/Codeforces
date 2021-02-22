@@ -1,4 +1,21 @@
 {
+  "CF108194875": {
+    "contest_id": 1421,
+    "language": "PyPy 3",
+    "path": "codeforces\\1421\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Putting Bricks in the Wall",
+    "problem_url": "https://codeforces.com/contest/1421/problem/B",
+    "submission_id": "CF108194875",
+    "submission_url": "https://codeforces.com/contest/1421/submission/108194875",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Feb/22/2021 21:47"
+  },
   "CF108201119": {
     "contest_id": 1420,
     "language": "PyPy 3",
