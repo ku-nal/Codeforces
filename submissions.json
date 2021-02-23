@@ -1,4 +1,22 @@
 {
+  "CF108325626": {
+    "contest_id": 1492,
+    "language": "PyPy 3",
+    "path": "codeforces\\1492\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Card Deck",
+    "problem_url": "https://codeforces.com/contest/1492/problem/B",
+    "submission_id": "CF108325626",
+    "submission_url": "https://codeforces.com/contest/1492/submission/108325626",
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Feb/23/2021 22:15"
+  },
   "CF108405638": {
     "contest_id": 1419,
     "language": "PyPy 3",
