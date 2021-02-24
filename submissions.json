@@ -1,4 +1,20 @@
 {
+  "CF108411114": {
+    "contest_id": 1418,
+    "language": "PyPy 3",
+    "path": "codeforces\\1418\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Buying Torches",
+    "problem_url": "https://codeforces.com/contest/1418/problem/A",
+    "submission_id": "CF108411114",
+    "submission_url": "https://codeforces.com/contest/1418/submission/108411114",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Feb/24/2021 20:06"
+  },
   "CF109098088": {
     "contest_id": 371,
     "language": "Python 3",
