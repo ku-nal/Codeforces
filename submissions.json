@@ -1,4 +1,24 @@
 {
+  "CF108405638": {
+    "contest_id": 1419,
+    "language": "PyPy 3",
+    "path": "codeforces\\1419\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Stairs",
+    "problem_url": "https://codeforces.com/contest/1419/problem/B",
+    "submission_id": "CF108405638",
+    "submission_url": "https://codeforces.com/contest/1419/submission/108405638",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Feb/24/2021 18:58"
+  },
   "CF108411114": {
     "contest_id": 1418,
     "language": "PyPy 3",
