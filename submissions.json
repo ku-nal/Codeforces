@@ -1,4 +1,23 @@
 {
+  "CF109225212": {
+    "contest_id": 1437,
+    "language": "Python 3",
+    "path": "codeforces\\1437\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Marketing Scheme",
+    "problem_url": "https://codeforces.com/contest/1437/problem/A",
+    "submission_id": "CF109225212",
+    "submission_url": "https://codeforces.com/contest/1437/submission/109225212",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/06/2021 18:55"
+  },
   "CF109424476": {
     "contest_id": 1417,
     "language": "Python 3",
