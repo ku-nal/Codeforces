@@ -1,4 +1,20 @@
 {
+  "CF109224860": {
+    "contest_id": 1191,
+    "language": "Python 3",
+    "path": "codeforces\\1191\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tokitsukaze and Enhancement",
+    "problem_url": "https://codeforces.com/contest/1191/problem/A",
+    "submission_id": "CF109224860",
+    "submission_url": "https://codeforces.com/contest/1191/submission/109224860",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Mar/06/2021 18:49"
+  },
   "CF109225212": {
     "contest_id": 1437,
     "language": "Python 3",
