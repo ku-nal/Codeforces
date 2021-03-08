@@ -1,4 +1,21 @@
 {
+  "CF109424946": {
+    "contest_id": 58,
+    "language": "Python 3",
+    "path": "codeforces\\58\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chat room",
+    "problem_url": "https://codeforces.com/contest/58/problem/A",
+    "submission_id": "CF109424946",
+    "submission_url": "https://codeforces.com/contest/58/submission/109424946",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Mar/09/2021 01:16"
+  },
   "CF109426038": {
     "contest_id": 479,
     "language": "Python 3",
