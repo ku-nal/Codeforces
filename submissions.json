@@ -1,4 +1,22 @@
 {
+  "CF109424476": {
+    "contest_id": 1417,
+    "language": "Python 3",
+    "path": "codeforces\\1417\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Arrays",
+    "problem_url": "https://codeforces.com/contest/1417/problem/B",
+    "submission_id": "CF109424476",
+    "submission_url": "https://codeforces.com/contest/1417/submission/109424476",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Mar/09/2021 01:05"
+  },
   "CF109424946": {
     "contest_id": 58,
     "language": "Python 3",
