@@ -1,4 +1,20 @@
 {
+  "CF109470994": {
+    "contest_id": 339,
+    "language": "Python 3",
+    "path": "codeforces\\339\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Xenia and Ringroad",
+    "problem_url": "https://codeforces.com/contest/339/problem/B",
+    "submission_id": "CF109470994",
+    "submission_url": "https://codeforces.com/contest/339/submission/109470994",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Mar/09/2021 18:38"
+  },
   "CF109473429": {
     "contest_id": 379,
     "language": "Python 3",
