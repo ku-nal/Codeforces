@@ -1,4 +1,20 @@
 {
+  "CF109629080": {
+    "contest_id": 1496,
+    "language": "PyPy 3",
+    "path": "codeforces\\1496\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Max and Mex",
+    "problem_url": "https://codeforces.com/contest/1496/problem/B",
+    "submission_id": "CF109629080",
+    "submission_url": "https://codeforces.com/contest/1496/submission/109629080",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Mar/10/2021 20:18"
+  },
   "CF109629467": {
     "contest_id": 1496,
     "language": "PyPy 3",
