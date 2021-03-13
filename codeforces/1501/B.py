@@ -63,58 +63,37 @@ from collections import Counter
 
 
 #==============To chaliye shuru krte he ====================#
-# tc=inpi()
-# while tc:
-#     tc-=1
-#     n=inpi()
-#     li=inpl()
-#     stack,omap=[],{}
-#     size=0
-#     ms=[]
-#     i=0
-#     while i<n:
-#         if li[i]==0:
-#             stack.append(i+1)
-#         else:
-#             if len(stack)>0:
-#                 rem=li[i]-((i+1)-stack[-1])
-#                 st=stack[-1]
-#                 while rem>0 and len(stack)>0:
-#                     omap[st]=1
-#                     if st==stack[-1]:
-#                         stack.pop()
-#                     st-=1
-#                     rem-=1
-#             omap[i+1]=1
-#         i+=1
-#     for i in range(1,n+1):
-#         if i in omap:
-#             P("1",end=" ")
-#         else:
-#             P("0",end=" ")
-#     P()
 tc=inpi()
 while tc:
     tc-=1
     n=inpi()
     li=inpl()
-    dp=[0]*n
-    prev=n-2
-    for i in reversed(ra(n)):
-        if li[i]!=0:
-            dp[i]=1
-            if i<=prev:
-                prev=i-1
-            rem=li[i]-(i-prev)
-            while rem>0 and prev>=0:
-                dp[prev]=1
-                prev-=1
-                rem-=1
-    for i in ra(n):
-        if dp[i]:
+    stack,omap=[],{}
+    size=0
+    ms=[]
+    i=0
+    while i<n:
+        if li[i]==0:
+            stack.append(i+1)
+        else:
+            if len(stack)>0:
+                rem=li[i]-((i+1)-stack[-1])
+                st=stack[-1]
+                while rem>0 and len(stack)>0:
+                    omap[st]=1
+                    if st==stack[-1]:
+                        stack.pop()
+                    st-=1
+                    rem-=1
+            omap[i+1]=1
+        i+=1
+    for i in range(1,n+1):
+        if i in omap:
             P("1",end=" ")
         else:
             P("0",end=" ")
     P()
+                
+            
+                  
     
-        

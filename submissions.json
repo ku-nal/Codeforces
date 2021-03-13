@@ -1,4 +1,22 @@
 {
+  "CF109922171": {
+    "contest_id": 1501,
+    "language": "PyPy 3",
+    "path": "codeforces\\1501\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Napoleon Cake",
+    "problem_url": "https://codeforces.com/contest/1501/problem/B",
+    "submission_id": "CF109922171",
+    "submission_url": "https://codeforces.com/contest/1501/submission/109922171",
+    "tags": [
+      "dp",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Mar/14/2021 01:21"
+  },
   "CF109923206": {
     "contest_id": 1501,
     "language": "PyPy 3",
