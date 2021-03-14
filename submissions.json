@@ -1,4 +1,20 @@
 {
+  "CF109996516": {
+    "contest_id": 1037,
+    "language": "PyPy 3",
+    "path": "codeforces\\1037\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Reach Median",
+    "problem_url": "https://codeforces.com/contest/1037/problem/B",
+    "submission_id": "CF109996516",
+    "submission_url": "https://codeforces.com/contest/1037/submission/109996516",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Mar/15/2021 01:16"
+  },
   "CF110132144": {
     "contest_id": 160,
     "language": "PyPy 3",
