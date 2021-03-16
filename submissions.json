@@ -1,4 +1,21 @@
 {
+  "CF110132144": {
+    "contest_id": 160,
+    "language": "PyPy 3",
+    "path": "codeforces\\160\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Twins",
+    "problem_url": "https://codeforces.com/contest/160/problem/A",
+    "submission_id": "CF110132144",
+    "submission_url": "https://codeforces.com/contest/160/submission/110132144",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Mar/16/2021 22:30"
+  },
   "CF110132787": {
     "contest_id": 122,
     "language": "PyPy 3",
