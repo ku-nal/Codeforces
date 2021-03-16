@@ -1,4 +1,21 @@
 {
+  "CF110132787": {
+    "contest_id": 122,
+    "language": "PyPy 3",
+    "path": "codeforces\\122\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lucky Division",
+    "problem_url": "https://codeforces.com/contest/122/problem/A",
+    "submission_id": "CF110132787",
+    "submission_url": "https://codeforces.com/contest/122/submission/110132787",
+    "tags": [
+      "brute force",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Mar/16/2021 22:40"
+  },
   "CF110174648": {
     "contest_id": 467,
     "language": "PyPy 3",
