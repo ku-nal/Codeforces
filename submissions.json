@@ -1,4 +1,23 @@
 {
+  "CF110195280": {
+    "contest_id": 1497,
+    "language": "PyPy 3",
+    "path": "codeforces\\1497\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Meximization",
+    "problem_url": "https://codeforces.com/contest/1497/problem/A",
+    "submission_id": "CF110195280",
+    "submission_url": "https://codeforces.com/contest/1497/submission/110195280",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Mar/17/2021 20:21"
+  },
   "CF110209910": {
     "contest_id": 1497,
     "language": "PyPy 3",
