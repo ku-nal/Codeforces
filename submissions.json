@@ -1,4 +1,21 @@
 {
+  "CF110224240": {
+    "contest_id": 1497,
+    "language": "PyPy 3",
+    "path": "codeforces\\1497\\C1.py",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "k-LCM (easy version)",
+    "problem_url": "https://codeforces.com/contest/1497/problem/C1",
+    "submission_id": "CF110224240",
+    "submission_url": "https://codeforces.com/contest/1497/submission/110224240",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Mar/17/2021 21:17"
+  },
   "CF110274056": {
     "contest_id": 1497,
     "language": "PyPy 3",
