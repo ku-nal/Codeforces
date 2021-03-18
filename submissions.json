@@ -1,4 +1,23 @@
 {
+  "CF110363879": {
+    "contest_id": 1499,
+    "language": "PyPy 3",
+    "path": "codeforces\\1499\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minimum Grid Path",
+    "problem_url": "https://codeforces.com/contest/1499/problem/C",
+    "submission_id": "CF110363879",
+    "submission_url": "https://codeforces.com/contest/1499/submission/110363879",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Mar/18/2021 21:22"
+  },
   "CF110477955": {
     "contest_id": 1497,
     "language": "PyPy 3",
