@@ -1,4 +1,21 @@
 {
+  "CF110847607": {
+    "contest_id": 1333,
+    "language": "Python 3",
+    "path": "codeforces\\1333\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kind Anton",
+    "problem_url": "https://codeforces.com/contest/1333/problem/B",
+    "submission_id": "CF110847607",
+    "submission_url": "https://codeforces.com/contest/1333/submission/110847607",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/24/2021 02:29"
+  },
   "CF110900313": {
     "contest_id": 1333,
     "language": "PyPy 3",
