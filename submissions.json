@@ -1,4 +1,23 @@
 {
+  "CF110840704": {
+    "contest_id": 1484,
+    "language": "Python 3",
+    "path": "codeforces\\1484\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Basic Diplomacy",
+    "problem_url": "https://codeforces.com/contest/1484/problem/C",
+    "submission_id": "CF110840704",
+    "submission_url": "https://codeforces.com/contest/1484/submission/110840704",
+    "tags": [
+      "combinatorics",
+      "flows",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Mar/24/2021 00:12"
+  },
   "CF110847194": {
     "contest_id": 1333,
     "language": "Python 3",
