@@ -67,31 +67,20 @@ tc=inpi()
 while tc:
     a=inp()
     b=inp()
-    if a==b:
-        P(0)
-    else:
-        ans=float('inf')
-        omap1={}
-        for i in ra(l(a)):
-            for j in ra(i,l(a)):
-                st=a[i:j+1]
-                if st in omap1:
-                    omap1[st].append([i,j])
-                else:
-                    omap1[st]=[[i,j]]
-        for i in ra(l(b)):
-            for j in ra(i,l(b)):
-                st=b[i:j+1]
-                if st in omap1:
-                    li=omap1[st]
-                
-                    for k in li:
-                        ans=min(ans,k[0]+l(a)-(k[1]+1)+i+l(b)-(j+1))
-        if ans==float('inf'):
-            
-            P(l(a)+l(b))
-        else:
-            P(ans)
+    l1=len(a)
+    l2=l(b)
+    
+    arr=[[0 for i in ra(l2+1)] for j in ra(l1+1)]
+    ans=0
+    
+    for i in ra(l1+1):
+        for j in ra(l2+1):
+            if i==0 or j==0:
+                arr[i][j]=0
+            elif a[i-1]==b[j-1]:
+                arr[i][j]=arr[i-1][j-1]+1
+                ans=max(ans,arr[i][j])
+    P(l1+l2-(2*ans))
     tc-=1
-                           
-                
+    
+    
