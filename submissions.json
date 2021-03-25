@@ -1,4 +1,21 @@
 {
+  "CF111066664": {
+    "contest_id": 1506,
+    "language": "PyPy 3",
+    "path": "codeforces\\1506\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Partial Replacement",
+    "problem_url": "https://codeforces.com/contest/1506/problem/B",
+    "submission_id": "CF111066664",
+    "submission_url": "https://codeforces.com/contest/1506/submission/111066664",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/25/2021 22:43"
+  },
   "CF111075296": {
     "contest_id": 1506,
     "language": "PyPy 3",
