@@ -1,4 +1,20 @@
 {
+  "CF110992782": {
+    "contest_id": 1506,
+    "language": "PyPy 3",
+    "path": "codeforces\\1506\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strange Table",
+    "problem_url": "https://codeforces.com/contest/1506/problem/A",
+    "submission_id": "CF110992782",
+    "submission_url": "https://codeforces.com/contest/1506/submission/110992782",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/25/2021 20:22"
+  },
   "CF111031122": {
     "contest_id": 1506,
     "language": "PyPy 3",
