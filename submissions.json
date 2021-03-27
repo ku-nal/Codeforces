@@ -1,4 +1,21 @@
 {
+  "CF111238988": {
+    "contest_id": 1506,
+    "language": "PyPy 3",
+    "path": "codeforces\\1506\\E.py",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Restoring the Permutation",
+    "problem_url": "https://codeforces.com/contest/1506/problem/E",
+    "submission_id": "CF111238988",
+    "submission_url": "https://codeforces.com/contest/1506/submission/111238988",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Mar/28/2021 01:43"
+  },
   "CF111240107": {
     "contest_id": 706,
     "language": "PyPy 3",
