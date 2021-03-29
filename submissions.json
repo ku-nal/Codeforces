@@ -1,4 +1,21 @@
 {
+  "CF111412111": {
+    "contest_id": 1498,
+    "language": "PyPy 3",
+    "path": "codeforces\\1498\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "GCD Sum",
+    "problem_url": "https://codeforces.com/contest/1498/problem/A",
+    "submission_id": "CF111412111",
+    "submission_url": "https://codeforces.com/contest/1498/submission/111412111",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2021 23:45"
+  },
   "CF111738892": {
     "contest_id": 270,
     "language": "PyPy 3",
