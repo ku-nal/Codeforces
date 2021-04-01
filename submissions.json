@@ -1,4 +1,22 @@
 {
+  "CF111738892": {
+    "contest_id": 270,
+    "language": "PyPy 3",
+    "path": "codeforces\\270\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fancy Fence",
+    "problem_url": "https://codeforces.com/contest/270/problem/A",
+    "submission_id": "CF111738892",
+    "submission_url": "https://codeforces.com/contest/270/submission/111738892",
+    "tags": [
+      "geometry",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Apr/02/2021 01:31"
+  },
   "CF111739346": {
     "contest_id": 519,
     "language": "PyPy 3",
