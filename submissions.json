@@ -1,4 +1,25 @@
 {
+  "CF111740676": {
+    "contest_id": 489,
+    "language": "PyPy 3",
+    "path": "codeforces\\489\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "BerSU Ball",
+    "problem_url": "https://codeforces.com/contest/489/problem/B",
+    "submission_id": "CF111740676",
+    "submission_url": "https://codeforces.com/contest/489/submission/111740676",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graph matchings",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Apr/02/2021 02:14"
+  },
   "CF111740915": {
     "contest_id": 25,
     "language": "PyPy 3",
