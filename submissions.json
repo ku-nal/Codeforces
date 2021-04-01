@@ -1,4 +1,22 @@
 {
+  "CF111739346": {
+    "contest_id": 519,
+    "language": "PyPy 3",
+    "path": "codeforces\\519\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "A and B and Compilation Errors",
+    "problem_url": "https://codeforces.com/contest/519/problem/B",
+    "submission_id": "CF111739346",
+    "submission_url": "https://codeforces.com/contest/519/submission/111739346",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Apr/02/2021 01:42"
+  },
   "CF111740306": {
     "contest_id": 492,
     "language": "PyPy 3",
