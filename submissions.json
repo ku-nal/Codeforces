@@ -1,4 +1,21 @@
 {
+  "CF111948200": {
+    "contest_id": 1504,
+    "language": "PyPy 3",
+    "path": "codeforces\\1504\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": " D\u00e9j\u00e0 Vu",
+    "problem_url": "https://codeforces.com/contest/1504/problem/A",
+    "submission_id": "CF111948200",
+    "submission_url": "https://codeforces.com/contest/1504/submission/111948200",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/04/2021 00:51"
+  },
   "CF111948231": {
     "contest_id": 1504,
     "language": "PyPy 3",
