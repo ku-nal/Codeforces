@@ -1,4 +1,22 @@
 {
+  "CF111973756": {
+    "contest_id": 1504,
+    "language": "Python 3",
+    "path": "codeforces\\1504\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Balance the Bits",
+    "problem_url": "https://codeforces.com/contest/1504/problem/C",
+    "submission_id": "CF111973756",
+    "submission_url": "https://codeforces.com/contest/1504/submission/111973756",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Apr/04/2021 12:25"
+  },
   "CF112047174": {
     "contest_id": 1023,
     "language": "PyPy 3",
