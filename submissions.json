@@ -1,4 +1,24 @@
 {
+  "CF112087244": {
+    "contest_id": 1007,
+    "language": "Python 3",
+    "path": "codeforces\\1007\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Reorder the Array",
+    "problem_url": "https://codeforces.com/contest/1007/problem/A",
+    "submission_id": "CF112087244",
+    "submission_url": "https://codeforces.com/contest/1007/submission/112087244",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Apr/05/2021 20:56"
+  },
   "CF112128912": {
     "contest_id": 864,
     "language": "PyPy 3",
