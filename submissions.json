@@ -1,4 +1,22 @@
 {
+  "CF112128912": {
+    "contest_id": 864,
+    "language": "PyPy 3",
+    "path": "codeforces\\864\\D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Make a Permutation!",
+    "problem_url": "https://codeforces.com/contest/864/problem/D",
+    "submission_id": "CF112128912",
+    "submission_url": "https://codeforces.com/contest/864/submission/112128912",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Apr/06/2021 12:59"
+  },
   "CF112177475": {
     "contest_id": 1327,
     "language": "PyPy 3",
