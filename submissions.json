@@ -1,4 +1,22 @@
 {
+  "CF112336594": {
+    "contest_id": 401,
+    "language": "PyPy 3",
+    "path": "codeforces\\401\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Team",
+    "problem_url": "https://codeforces.com/contest/401/problem/C",
+    "submission_id": "CF112336594",
+    "submission_url": "https://codeforces.com/contest/401/submission/112336594",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Apr/09/2021 01:26"
+  },
   "CF112466216": {
     "contest_id": 478,
     "language": "PyPy 3",
