@@ -1,4 +1,21 @@
 {
+  "CF112328810": {
+    "contest_id": 1180,
+    "language": "PyPy 3",
+    "path": "codeforces\\1180\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Nick and Array",
+    "problem_url": "https://codeforces.com/contest/1180/problem/B",
+    "submission_id": "CF112328810",
+    "submission_url": "https://codeforces.com/contest/1180/submission/112328810",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Apr/08/2021 23:26"
+  },
   "CF112336594": {
     "contest_id": 401,
     "language": "PyPy 3",
