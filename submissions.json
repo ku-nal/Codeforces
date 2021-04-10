@@ -1,4 +1,22 @@
 {
+  "CF112574231": {
+    "contest_id": 1512,
+    "language": "PyPy 3",
+    "path": "codeforces\\1512\\D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Corrupted Array",
+    "problem_url": "https://codeforces.com/contest/1512/problem/D",
+    "submission_id": "CF112574231",
+    "submission_url": "https://codeforces.com/contest/1512/submission/112574231",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Apr/11/2021 00:02"
+  },
   "CF112721302": {
     "contest_id": 1513,
     "language": "PyPy 3",
