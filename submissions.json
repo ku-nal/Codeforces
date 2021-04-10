@@ -1,4 +1,23 @@
 {
+  "CF112466216": {
+    "contest_id": 478,
+    "language": "PyPy 3",
+    "path": "codeforces\\478\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Random Teams",
+    "problem_url": "https://codeforces.com/contest/478/problem/B",
+    "submission_id": "CF112466216",
+    "submission_url": "https://codeforces.com/contest/478/submission/112466216",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Apr/10/2021 19:18"
+  },
   "CF112470653": {
     "contest_id": 1512,
     "language": "PyPy 3",
