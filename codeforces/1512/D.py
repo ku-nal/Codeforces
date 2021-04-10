@@ -54,7 +54,9 @@ class IOWrapper(IOBase):
 
 sys.stdin, sys.stdout = IOWrapper(sys.stdin), IOWrapper(sys.stdout)
 def input(): return sys.stdin.readline().rstrip("\r\n")
-
+a=0
+for i in ra(10):
+        a+=1
 #=========I/p O/p ========================================#
 from bisect import bisect_left as bl 
 from bisect import bisect_right as br
@@ -62,28 +64,33 @@ import sys,operator,math,operator
 from collections import Counter 
 import random
 #==============To chaliye shuru krte he ====================#
-tc=inpi()
+
+tc =inpi()
 while tc:
     tc-=1
-    n=inpi()
-    li=inpl()
+    n = inpi()
+    li = inpl()
     li.sort()
-    pref=[li[0]]
-    le=len(li)
-    for i in ra(1,le):
-        pref.append(pref[-1]+li[i])
-    if pref[-3]==li[-2]:
-        for i in ra(le-2):
-            P(li[i],end=" ")
-        P()   
+    a=0
+    s = sum(li[:n])
+    sn1 = sum(li[:n+1])
+    sn2 = sum(li) - li[n]
+    gs1 = li[n]
+    gs2 = li[n+1]
+    d1 = li[n+1]-s
+    d2 = li[n] -s
+    dn = sn1 - li[n+1]
+    dn2 = sn2- li[n]
+    if(s == gs1 or s == gs2):
+        print(' '.join(map(str, li[:n])))
     else:
-        diff=pref[-2]-li[-1]
-        if diff in li[:-1]:
-            idx=li.index(diff)
-            for i in ra(le-1):
-                if i!=idx:
-                    P(li[i],end=" ")
-            P()
+        if(dn in li[:n+1]):
+            li.remove(dn)
+            print(' '.join(map(str, li[:n])))
+
         else:
-            P(-1)
-        
+            print(-1)
+
+
+
+    
