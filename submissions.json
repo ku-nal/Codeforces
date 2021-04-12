@@ -1,4 +1,23 @@
 {
+  "CF112813628": {
+    "contest_id": 1511,
+    "language": "PyPy 3",
+    "path": "codeforces\\1511\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Card Deck",
+    "problem_url": "https://codeforces.com/contest/1511/problem/C",
+    "submission_id": "CF112813628",
+    "submission_url": "https://codeforces.com/contest/1511/submission/112813628",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "trees",
+      "*1100"
+    ],
+    "timestamp": "Apr/12/2021 20:38"
+  },
   "CF112835509": {
     "contest_id": 1511,
     "language": "PyPy 3",
