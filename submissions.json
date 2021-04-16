@@ -1,4 +1,22 @@
 {
+  "CF113145462": {
+    "contest_id": 893,
+    "language": "PyPy 3",
+    "path": "codeforces\\893\\C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Rumor",
+    "problem_url": "https://codeforces.com/contest/893/problem/C",
+    "submission_id": "CF113145462",
+    "submission_url": "https://codeforces.com/contest/893/submission/113145462",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Apr/16/2021 11:05"
+  },
   "CF113187200": {
     "contest_id": 1509,
     "language": "PyPy 3",
