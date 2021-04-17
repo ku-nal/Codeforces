@@ -98,34 +98,61 @@ def dfs(arr,n):
 from bisect import bisect_left as bl 
 from bisect import bisect_right as br
 import sys,operator,math,operator
-from collections import Counter 
 import random
 #==============To chaliye shuru krte he ====================#
+from collections import Counter
+n=int(input())
+arr=list(map(int,input().split()))
+#
+d=Counter(arr)
+d=d.most_common()
+e=d[0][0]
+minn=arr.index(e)
+print(n-d[0][1])
+ans=[];flag=False
+for i in range(minn,n):
+  if i+1<n and arr[i+1]>e:ans.append([2,i+2,i+1])
+  if i+1<n and arr[i+1]<e:ans.append([1,i+2,i+1])
+for  j in range(minn,-1,-1):
+ if j-1>=0 and arr[j-1]>e:ans.append([2,j,j+1])
+ elif j-1>=0 and arr[j-1]<e:ans.append([1,j,j+1])
+for i in ans:print(*i)
 
-n=inpi()
-li=inpl()
-omap=Counter(li)
-d=omap.most_common()
-P(n-d[0][1])
-val=d[0][0]
-for i in ra(n):
-    if li[i]==val:
-        idx=i
-        break
-temp1,temp2=idx,idx
-while temp1>=1:
-    if li[temp1-1]>val:
-        P(2,temp1,temp1+1)
-    elif li[temp1-1]<val:
-        P(1,temp1,temp1+1)
-    temp1-=1
-while temp2<n-1:
-    if li[temp2+1]!=val:
-        if li[temp2+1]>val:
-            P(2,temp2+2,temp2+1)
-        else:
-            P(1,temp2+2,temp2+1)
-    temp2+=1
+# n=inpi()
+# li=inpl()
+# omap=Counter(li)
+# P(omap)
+# if len(omap)==n:
+#     val=li[0]
+#     P(n-1)
+#     for i in ra(1,n):
+#         if li[i]>val:
+#             P(2,i+1,i)
+#         else:
+#             P(1,i+1,i)
+# else:
+#     for k,v in sorted(omap.items(),reverse=True):
+#         no,val=v,k
+#         break
+#     P(n-no)
+#     for i in ra(n):
+#         if li[i]==val:
+#             idx=i
+#             break
+#     temp1,temp2=idx,idx
+#     while temp1>=1:
+#         if li[temp1-1]>val:
+#             P(2,temp1,temp1+1)
+#         elif li[temp1-1]<val:
+#             P(1,temp1,temp1+1)
+#         temp1-=1
+#     while temp2<n-1:
+#         if li[temp2+1]!=val:
+#             if li[temp2+1]>val:
+#                 P(2,temp2+2,temp2+1)
+#             else:
+#                 P(1,temp2+2,temp2+1)
+#         temp2+=1
     
     
         
