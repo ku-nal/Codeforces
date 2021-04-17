@@ -1,4 +1,21 @@
 {
+  "CF113360225": {
+    "contest_id": 1144,
+    "language": "PyPy 3",
+    "path": "codeforces\\1144\\D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Equalize Them All",
+    "problem_url": "https://codeforces.com/contest/1144/problem/D",
+    "submission_id": "CF113360225",
+    "submission_url": "https://codeforces.com/contest/1144/submission/113360225",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Apr/18/2021 00:51"
+  },
   "CF113459293": {
     "contest_id": 1462,
     "language": "Python 3",
