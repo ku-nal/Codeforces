@@ -98,7 +98,6 @@ def dfs(arr,n):
 from bisect import bisect_left as bl 
 from bisect import bisect_right as br
 import sys,operator,math,operator
-from collections import Counter 
 import random
 #==============To chaliye shuru krte he ==================#
 tc=inpi()
@@ -107,33 +106,18 @@ while tc:
     n=inpi()
     li=inpl()
     ans=[li[0]]
-    for i in ra(1,n-1):
-        if li[i]>=li[i+1] and li[i]>=li[i-1]:
+    i=1
+    idx=0
+    while i<n-1:
+        a=abs(li[i-1]-li[i+1])
+        b=abs(li[i]-li[i-1])+abs(li[i+1]-li[i])
+        if a>=b:
+            pass
+        else:
             ans.append(li[i])
-        elif li[i]<=li[i-1] and li[i]<=li[i+1]:
-            ans.append(li[i])
-    ans.append(li[-1])
+        i+=1
+    if idx!=n-1:
+        ans.append(li[-1])
     P(l(ans))
     P(*ans)
-    
-    
-    
-    
-    
-    
-    # ans=[li[0]]
-    # i=1
-    # idx=0
-    # while i<n-1:
-    #     a=abs(li[i-1]-li[i+1])
-    #     b=abs(li[i]-li[i-1])+abs(li[i+1]-li[i])
-    #     if a>=b:
-    #         pass
-    #     else:
-    #         ans.append(li[i])
-    #     i+=1
-    # if idx!=n-1:
-    #     ans.append(li[-1])
-    # P(l(ans))
-    # P(*ans)
                     

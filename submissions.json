@@ -1,4 +1,21 @@
 {
+  "CF113648622": {
+    "contest_id": 1364,
+    "language": "PyPy 3",
+    "path": "codeforces\\1364\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Most socially-distanced subsequence",
+    "problem_url": "https://codeforces.com/contest/1364/problem/B",
+    "submission_id": "CF113648622",
+    "submission_url": "https://codeforces.com/contest/1364/submission/113648622",
+    "tags": [
+      "greedy",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Apr/21/2021 01:23"
+  },
   "CF113649307": {
     "contest_id": 1364,
     "language": "PyPy 3",
