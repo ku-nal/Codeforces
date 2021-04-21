@@ -1,4 +1,23 @@
 {
+  "CF113782267": {
+    "contest_id": 1516,
+    "language": "PyPy 3",
+    "path": "codeforces\\1516\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "AGAGA XOOORRR",
+    "problem_url": "https://codeforces.com/contest/1516/problem/B",
+    "submission_id": "CF113782267",
+    "submission_url": "https://codeforces.com/contest/1516/submission/113782267",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Apr/21/2021 20:52"
+  },
   "CF113924447": {
     "contest_id": 468,
     "language": "Python 3",
