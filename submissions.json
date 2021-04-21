@@ -1,4 +1,22 @@
 {
+  "CF113671361": {
+    "contest_id": 1133,
+    "language": "PyPy 3",
+    "path": "codeforces\\1133\\D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Zero Quantity Maximization",
+    "problem_url": "https://codeforces.com/contest/1133/problem/D",
+    "submission_id": "CF113671361",
+    "submission_url": "https://codeforces.com/contest/1133/submission/113671361",
+    "tags": [
+      "hashing",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Apr/21/2021 11:19"
+  },
   "CF113723376": {
     "contest_id": 1516,
     "language": "PyPy 3",
