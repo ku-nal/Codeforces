@@ -1,4 +1,21 @@
 {
+  "CF113950506": {
+    "contest_id": 1355,
+    "language": "Python 3",
+    "path": "codeforces\\1355\\D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Game With Array",
+    "problem_url": "https://codeforces.com/contest/1355/problem/D",
+    "submission_id": "CF113950506",
+    "submission_url": "https://codeforces.com/contest/1355/submission/113950506",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Apr/23/2021 12:51"
+  },
   "CF113989379": {
     "contest_id": 1517,
     "language": "Python 3",
