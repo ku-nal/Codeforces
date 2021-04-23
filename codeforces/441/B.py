@@ -98,7 +98,6 @@ from bisect import bisect_left as bl
 from bisect import bisect_right as br
 import sys,operator,math,operator
 from collections import Counter 
-
 import random
 #==============To chaliye shuru krte he ====================#
 n,x=inpm()
@@ -106,7 +105,7 @@ li=[]
 for i in ra(n):
     li.append(inpl())
 omap={}
-for i in ra(3002):
+for i in ra(1,3002):
     omap[i]=0
 li.sort(reverse=True)
 for i in ra(n):
@@ -114,10 +113,23 @@ for i in ra(n):
 ma=li[0][0]
 ans=0
 for i in ra(1,ma+2):
-    take=min(omap[i-1],x)
-    rem=x-take
-    ans+=take
-    take1=min(rem,omap[i])
-    ans+=take1
-    omap[i]-=take1
-P(ans)    
+    if i==1:
+        if omap[i]>=x:
+            omap[i]-=x
+            ans+=x
+        else:
+            ans+=omap[i]
+            omap[i]=0
+    else:
+        if omap[i-1]>=x:
+            ans+=x
+        else:
+            ans+=omap[i-1]
+            rem=x-omap[i-1]
+            if omap[i]>=rem:
+                omap[i]-=rem
+                ans+=rem
+            else:
+                ans+=omap[i]
+                omap[i]=0
+P(ans)
