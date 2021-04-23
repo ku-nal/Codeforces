@@ -1,4 +1,21 @@
 {
+  "CF113941473": {
+    "contest_id": 441,
+    "language": "Python 3",
+    "path": "codeforces\\441\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Valera and Fruits",
+    "problem_url": "https://codeforces.com/contest/441/problem/B",
+    "submission_id": "CF113941473",
+    "submission_url": "https://codeforces.com/contest/441/submission/113941473",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Apr/23/2021 10:41"
+  },
   "CF113950506": {
     "contest_id": 1355,
     "language": "Python 3",
